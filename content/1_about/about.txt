@@ -7,14 +7,26 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.",
+        "content": "Ik ben Thiemen Stoppelenburg.",
         "id": "_g1nXSBng0",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn\u2019t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy.",
-        "id": "_uRKO7ni0o",
+        "content": "Altijd op zoek naar nieuwe uitdagingen en hard aan het werk.",
+        "id": "_ciaoxbyho",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Zelf ben ik inmiddels tweedejaars Communication and Multimedia Design student aan de Hogeschool Rotterdam. Ik probeer mijzelf zo 'allround' mogelijk te specialiseren, maar ben erachter gekomen dat ik toch een liefde voor User Research Design heb ontwikkeld. De onmogelijke opdracht om specifieke/cruciale inzichten op te doen bij de doelgroep, is waar ik mijzelf steeds toe zet. ",
+        "id": "_aukebqfj1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Buiten de collegezaal ben ik amateuristisch dichter. 'Dichter in opleiding' noem ik het zelf (DIO). Deze hobby werkt in mijn voordeel. Een gedicht is namelijk een zoektocht naar synoniemen, en deze synoniemen speurtocht (bedoelde alliteratie) kan ik weer hergebruiken in mijn kleine zzp-probeersel: 'Shapet Design'. Hier ontwerp ik logo's, flyers etc. om mijn visuele game hoog te houden.",
+        "id": "_sce1t64bd",
         "type": "paragraph"
     }
 ]

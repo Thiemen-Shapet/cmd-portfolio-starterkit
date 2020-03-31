@@ -1,8 +1,8 @@
-Title: Designing the perfect onboarding process
+Title: Designing the perfect news consumption for teenagers
 
 ----
 
-Roles: Interaction design, visual design, usability research & testing
+Roles: User Researcher and User Tester
 
 ----
 
@@ -10,7 +10,7 @@ Duration: September 2019 - Januari 2020
 
 ----
 
-Clients: NRC
+Clients: ADR - Algemeen Dagblad
 
 ----
 
@@ -103,8 +103,7 @@ Text:
     },
     {
         "attrs": {
-            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/16-9-dummy.jpg",
-            "src": "http://localhost:8888/cmd-portfolio-starterkit/media/pages/projects/designing-the-perfect-onboarding-process/2572562093-1579364703/16-9-dummy.jpg",
+            "src": "http://localhost/media/pages/projects/designing-the-perfect-onboarding-process/2572562093-1581443004/16-9-dummy.jpg",
             "id": "projects/designing-the-perfect-onboarding-process/16-9-dummy.jpg",
             "ratio": 1.7777777777777777,
             "caption": "Caption yeah!"

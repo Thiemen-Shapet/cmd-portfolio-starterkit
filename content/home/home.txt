@@ -2,8 +2,11 @@ Title: Home
 
 ----
 
-Introductiontitle: Hello! I'm John Doe.
+Introductiontitle: Portfolio<span class="wave"> <img src="assets/img/shapet.png" class="shapet"></span><br/> Thiemen Stoppelenburg
 
 ----
 
-Introductiontext: Currently I am looking for an internship where I can develop my skills as a third year Communication and Multimediadesign student.
+Introductiontext:
+
+Hello dit ben ik Thiemen.
+CMD student aan de Hogeschool Rotterdam

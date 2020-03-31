@@ -1,10 +1,10 @@
-Title: Robin Sinke
+Title: Thiemen Stoppelenburg
 
 ----
 
 Logo:
 
-- robinsinke.jpeg
+- handjeklap.gif
 
 ----
 
@@ -15,11 +15,9 @@ Email: r.sinke@hr.nl
 Social:
 
 - 
-  platform: Twitter
-  url: https://twitter.com/robzooi
-- 
   platform: LinkedIn
-  url: https://www.linkedin.com/in/robinsinke/
+  url: >
+    https://www.linkedin.com/in/thiemen-stoppelenburg-366a15164/
 
 ----
 
