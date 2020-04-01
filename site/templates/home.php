@@ -14,6 +14,12 @@
     </div>  
   </div>
   
+
+<div class="row">
+<div class= col-9><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim culpa sint accusantium facilis quisquam corporis consequatur perferendis velit deleniti modi alias cupiditate ipsam doloremque veniam inventore assumenda id, numquam eum?</p></div>
+<div class= col-3><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis quas odio ipsum voluptatibus dolores consequuntur sit aspernatur exercitationem! Quo ipsum placeat voluptatum ullam ea fuga qui, sint fugit esse commodi.</p></div>
+</div>
+
   <?php
   if ($projectsPage = page('projects')): ?>
   <div class="row border-top">
@@ -21,8 +27,8 @@
       <h2 class="float-left">My work</h2>
       <a class="float-right" href="<?= $site->page('projects') ?>">View all projects &#8594;</a>
     </div>
-    <?php foreach ($projectsPage->children()->listed()->paginate(3) as $project): ?>
-    <div class="col-12 col-lg-4">
+    <?php foreach ($projectsPage->children()->listed()->paginate(4) as $project): ?>
+    <div class="col-12 col-lg-6 mb-4">
       <div class="card h-100">
       <img src="<?= $project->images()->findBy("template", "thumbnail")->url(); ?>" class="card-img-top" alt="thumbnail" />
       <div class="card-body">
@@ -31,7 +37,7 @@
         <a href="<?= $project->url() ?>">Read more &#8594;</a>
       </div>
     </div>
-    </div>
+  </div>
     <?php endforeach ?>
   </div>
   <?php endif ?>
