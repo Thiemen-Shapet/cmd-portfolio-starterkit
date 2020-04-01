@@ -23,13 +23,21 @@ h1 {
     border-top-right-radius: 0.5rem;
     background-color: transparent;
     border: 0px solid rgba(0, 0, 0, 0);
+    margin-right: 20px;
 }
+
 
 .card-body {
     background-color: #db7474;
     border-bottom-right-radius: 2.50rem;
     border-bottom-left-radius: 0.5rem;
- }
+}
+
+.card:hover{
+    transform: scale(1.05);
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+}
 
  .card a {
     color: white;
