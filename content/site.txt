@@ -1,14 +1,12 @@
-Title: Thiemen Stoppelenburg
+Title: <h class="title"> Thiemen Stoppelenburg </h>
 
 ----
 
-Logo:
-
-- handjeklap.gif
+Logo: - homebutton2.png
 
 ----
 
-Email: r.sinke@hr.nl
+Email: Thiemenstoppelenburg@gmail.com
 
 ----
 

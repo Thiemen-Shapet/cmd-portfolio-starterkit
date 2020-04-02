@@ -26,8 +26,9 @@
     <div class="col-12">
       <h2 class="float-left">My work</h2> 
       <br></br>
-      <br></br>
       <a class="float-right" href="<?= $site->page('projects') ?>">View all projects &#8594;</a>
+      <br></br>
+      <br></br>
     </div>
     <?php foreach ($projectsPage->children()->listed()->paginate(4) as $project): ?>
     <div class="col-12 col-lg-6 mb-4">

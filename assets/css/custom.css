@@ -5,17 +5,34 @@ body {
     font-family: 'Roboto', sans-serif;
     background-color: #fff7cf54;
 }
+.nav-link {
+    color:black;
+
+}
+.title {
+    color:black;
+}
+
 ::-moz-selection { /* Code for Firefox */
-    color: #8c60f7;
+    color: #46ffb8;
    }
-  
+  /* #8c60f7*/
   ::selection {
-    color: #8c60f7;
+    color: #ff9046;
   }
 h1 {
     color: #db7474;
     font-family: 'Roboto', sans-serif;
 }
+h2 {
+    color: #db7474;
+
+}
+
+.homebutton {
+    height: 40px;
+}
+
 .card {
     border-bottom-right-radius: 2.50rem;
     border-bottom-left-radius: 0.5rem;
@@ -24,6 +41,7 @@ h1 {
     background-color: transparent;
     border: 0px solid rgba(0, 0, 0, 0);
     margin-right: 20px;
+    padding-bottom: 30px;
 }
 
 
@@ -60,8 +78,16 @@ height: 600px;
     border-radius: 2.5rem;
 }
 .btn-primary:hover {
-    background-color: yellow;
+    background-color: transparent;
+    color: #db7474;
+    border-color: #db7474; 
 }
+.btn-outline-primary:hover {
+    color: #fff;
+    border-color: #db7474;
+    background-color: #db7474;
+}
+    
 .shapet {
     height: 30px;
 }
