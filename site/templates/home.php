@@ -24,7 +24,7 @@
   if ($projectsPage = page('projects')): ?>
   <div class="row border-top">
     <div class="col-12">
-      <h2 class="float-left">My works</h2> 
+      <h2 class="float-left">My work</h2> 
       <br></br>
       <a class="float-right" href="<?= $site->page('projects') ?>">View all projects &#8594;</a>
       <br></br>
