@@ -33,6 +33,10 @@ h2 {
     height: 40px;
 }
 
+a.float-right{
+
+   color:#db7474; 
+}
 .card {
     border-bottom-right-radius: 2.50rem;
     border-bottom-left-radius: 0.5rem;
