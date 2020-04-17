@@ -7,6 +7,24 @@ Text:
 [
     {
         "attrs": [],
+        "content": "",
+        "id": "_wvk1sst9f",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/about/files/whatsapp-image-2019-11-20-at-15.29.17-2.png",
+            "src": "http://localhost/media/pages/about/3243545825-1587163848/whatsapp-image-2019-11-20-at-15.29.17-2.png",
+            "id": "about/whatsapp-image-2019-11-20-at-15.29.17-2.png",
+            "ratio": 0.8869179600886918,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_o4tihtm9t",
+        "type": "image"
+    },
+    {
+        "attrs": [],
         "content": "Ik ben Thiemen Stoppelenburg.",
         "id": "_g1nXSBng0",
         "type": "paragraph"
@@ -19,7 +37,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Zelf ben ik inmiddels tweedejaars Communication and Multimedia Design student aan de Hogeschool Rotterdam. Ik probeer mijzelf zo 'allround' mogelijk te specialiseren, maar ben erachter gekomen dat ik toch een liefde voor User Research Design heb ontwikkeld. De onmogelijke opdracht om specifieke/cruciale inzichten op te doen bij de doelgroep, is waar ik mijzelf steeds toe zet. ",
+        "content": "Zelf ben ik inmiddels tweedejaars Communication and Multimedia Design student aan de Hogeschool Rotterdam. Ik probeer mijzelf zo 'allround' mogelijk te specialiseren, maar ben erachter gekomen dat ik toch een liefde voor User Research Design heb ontwikkeld. De onmogelijke opdracht om specifieke/cruciale inzichten op te doen bij de doelgroep, is waar ik mijzelf steeds toe zet.",
         "id": "_aukebqfj1",
         "type": "paragraph"
     },

@@ -18,4 +18,131 @@ Deliverables: Doodles, Illustrations
 
 ----
 
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_sh69bj6z6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/fietsverhuur-zand-2.png",
+            "src": "http://localhost/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/1435381437-1587163542/fietsverhuur-zand-2.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/fietsverhuur-zand-2.png",
+            "ratio": 0.8869179600886918,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_9j8jie8s9",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Hoe kan je door middel van fietsen het leven van toeristen verbeteren?",
+        "id": "_VhNMNVfsX",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ik heb de mogelijkheid gekregen een tweede maal individueel een project uit te werken.",
+        "id": "_pelpx9a94",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Dit mocht ik doen in 8 dagen, ten opzichte van de standaard 8 weken. Het aanhoren van deze verandering, gaf mij vanaf moment \u00e9\u00e9n al een echt ontwerpersgevoel.",
+        "id": "_su8bqP0dI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Je hebt nooit genoeg tijd voor ontwerpprocessen, waarom zou 8 dagen te weinig zijn?",
+        "id": "_2VKgMDmMW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Dit proces bezat misschien geen bestaande doelgroep, maar door interviews te voeren met (de doelgroep) toeristen binnen Dordrecht, kwam ik erachter dat de doelgroep de behoefte aan goed vervoer.",
+        "id": "_iyhn9SfWx",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "De doelgroep bestond dus echt. Ik kon aan de slag.",
+        "id": "_eMfKhPuUA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ik heb op enorm warme (met toeristen gevulde) dagen interviews uitgevoerd. Hier kwam ik erachter dat veel toeristen niet af wisten van de bestaande toeristenmogelijkheden.",
+        "id": "_EOnlXTfA6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Er was een mogelijkheid tot fietsenverhuur aanwezig, voor prijzen binnen limiet van de gebruikers (na interviews bewezen).",
+        "id": "_9QcJDvyzW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Dit was mijn kans de (al bestaande) fietsenverhuur te versterken naar een dienst die de doelgroep echt wilde gebruiken.",
+        "id": "_iYZTuM47a",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "interviews vertelden mij dat doorhebben van routes, de last wegnam van het zoeken binnen steden. Hiermee kwam ik met het inzicht, dat er niet meer nodig was dat gemak.",
+        "id": "_BWGkwAF4i",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "De doelgroep ervaarde genoeg genot van Dordrecht, maar moest de stad zelf opzoeken.",
+        "id": "_NbbspcQXS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Deze twee problemen kon ik door middel van mijn uitkomst oplossen.",
+        "id": "_oSy9ehwro",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ik heb ervoor gekozen een sociaal platform te creeren, met routeplanning en (toeristische) bezichtigingen te ontwerpen.",
+        "id": "_g71Ode30O",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "De doelgroep heeft aangegeven dit enorm te waarderen binnen zo'n tocht.",
+        "id": "_cUJkglhGd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Door middel van storyboards heb ik mijn uiteindelijke concept kunnen testen bij de doelgroep.",
+        "id": "_4tviJXw2R",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "De uitkomsten hiervan waren in het voordeel van de doelgroep en mij.",
+        "id": "_Q7I0pdGgt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Het bemachtigen van een VVV Fietsverhuur Dordrecht, was voor de doelgroep meer dan geweldig om en leuke stadsdag te ervaren.",
+        "id": "_875FJeFJo",
+        "type": "paragraph"
+    }
+]
+
+----
+
 Textarea: 
